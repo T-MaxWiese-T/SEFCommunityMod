@@ -9,3 +9,4 @@
 - LaunchSEF.exe with administrator rights
 - Discord Link for the SEF Community (feel free to contribute)
 - Many thanks to TheMunt for providing his mod "ReportAdvanced commands(MP) v0.9 (SEFv7.0)".
+- Thanks to eezstreet for the SEF main version
