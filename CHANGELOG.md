@@ -1,4 +1,4 @@
-### v7.1 Community Version
+### v7.2 Community Version
 - More weapon varietys for suspects (thanks to GuiShing #1)
 
 ### v7.1 Community Version
