@@ -1401,24 +1401,6 @@ Hint=click to view multiplayer new features
 Caption=GENERAL
 Hint=click here to see general new features
 
-[SwatGamespyProfilePopup_SavePasswordLabel]
-Caption=Save Password
-
-[SwatGamespyProfilePopup_Done]
-Caption=DONE
-
-[SwatGamespyProfilePopup_LoginCreate]
-Caption=LOGIN/CREATE
-
-[SwatGamespyProfilePopup_PasswordLabel]
-Caption=Password
-
-[SwatGamespyProfilePopup_EmailLabel]
-Caption=E-mail Address
-
-[SwatGamespyProfilePopup_UsernameLabel]
-Caption=User Name
-
 [SwatConnectionFailureMenu_OKButton]
 Caption=OK
 
@@ -2401,10 +2383,6 @@ Caption=9mm FMJ
 [SwatMPLoadoutPanel_Pocket_PrimaryWeapon_Label]
 Caption=9mm SMG
 
-[SwatMPPage_Profile]
-Caption=GAMESPY PROFILE
-Hint=Choose game settings.
-
 [SwatMPPage_LoadingLabel]
 Caption=LOADING
 
@@ -2929,10 +2907,6 @@ Caption=Select a server to connect to.
 Caption=CHECK FOR PATCH
 Hint=Find out if an update for SWAT 4 has been released.
 
-[SwatServerBrowserMenu_Profile]
-Caption=GAMESPY PROFILE
-Hint=Enter your GameSpy profile details, used for stat-tracking.
-
 [SwatServerBrowserMenu_VersionLabel]
 Caption=Version: 81970
 
@@ -2965,7 +2939,6 @@ Hint=Start the mission
 
 [SwatServerBrowserMenu_Gamespylabel]
 Caption=Internet
-Hint=Start the mission
 
 [SwatServerBrowserMenu_gamespybutton]
 Hint=Check this box to display Internet games.
@@ -3168,7 +3141,7 @@ Hint=Toggle VoIP ignore on selected player
 
 [SwatMPScoresPanel_COOPchangeteambutton]
 Caption=CHANGE TEAM
-Hint=Perform administrative duties.
+Hint=Switch to the other team (blue or red).
 
 [SwatMPScoresPanel_deployinfolabel]
 Caption=Blue Team: Primary Entrance. Red Team: Secondary Entrance
@@ -3389,7 +3362,7 @@ Hint=Toggle VoIP ignore on selected player
 
 [SwatMPScoresPanel_SwapTeam]
 Caption=CHANGE TEAM
-Hint=Switch teams
+Hint=Switch to the other team (blue or red).
 
 [SwatCOOPObjectivesPopupMenu_OfficerStatus_mappanelheader]
 Caption=TEAM STATUS
