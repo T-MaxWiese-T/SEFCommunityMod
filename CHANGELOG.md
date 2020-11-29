@@ -5,6 +5,7 @@
 - Old Credits file removed
 - SEF Community Mod Version display updated
 - Readme file revised
+- Fixed duplicate USP40 in courthouse for Insane SovCit (thanks to GuiShing #3)
 
 ### v7.1 Community Version
  
