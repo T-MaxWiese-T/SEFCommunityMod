@@ -8,6 +8,8 @@
 - Fixed duplicate USP40 in courthouse for Insane SovCit (thanks to GuiShing #3)
 - New main menu logo inserted
 - New main menu song added DEAF KEV - Invincible (NCS Release)
+- Integrated mod "ReportAdvanced commands(MP) v0.9" optimized
+- Screenshots Folder bat added (easy to create screenshots folder and manage)
 
 
 ### v7.1 Community Version
