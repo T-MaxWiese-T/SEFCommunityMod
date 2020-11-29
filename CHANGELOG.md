@@ -1,5 +1,11 @@
 ### v7.2 Community Version
 - More weapon varietys for suspects (thanks to GuiShing #1)
+- Added a missing number of points in the debriefing
+- Configured internet speed increased and screen resolution adapted to the most common
+- Old Credits file removed
+- SEF Community Mod Version display updated
+- Readme file revised
+- Fixed duplicate USP40 in courthouse for Insane SovCit (thanks to GuiShing #3)
 
 ### v7.1 Community Version
  
