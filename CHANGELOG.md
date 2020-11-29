@@ -9,7 +9,9 @@
 - New main menu logo inserted
 - New main menu song added DEAF KEV - Invincible (NCS Release)
 - Integrated mod "ReportAdvanced commands(MP) v0.9" optimized
-- Screenshots Folder bat added (easy to create screenshots folder and manage)
+- Screenshots folder bat added (easy to create screenshots folder and manage)
+- Less strict bonus in debriefing
+- Realistic capacity quantity
 
 
 ### v7.1 Community Version
