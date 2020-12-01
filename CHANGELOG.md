@@ -4,6 +4,7 @@
 - Hotfix bug where the weapons were offset
 - SEF_Community_Credits file added
 - Discord Link added
+- Missing sounds added
 
 ### v7.2 Community Version
 - More weapon varietys for suspects (thanks to GuiShing #1)
