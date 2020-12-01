@@ -1,3 +1,3 @@
-"HugeOfficerVarieties - SWAT Elite Force" Mod (thanks to EFdee and TargetAcquired)
-GitHub contributions (thanks to GuiShing)
-"ReportAdvanced commands(MP) v0.9 (SEFv7.0)" Mod (thanks to The_Munt) 
+- "HugeOfficerVarieties - SWAT Elite Force" Mod (thanks to EFdee and TargetAcquired)
+- "ReportAdvanced commands(MP) v0.9 (SEFv7.0)" Mod (thanks to The_Munt) 
+- GitHub contributions (thanks to GuiShing)
