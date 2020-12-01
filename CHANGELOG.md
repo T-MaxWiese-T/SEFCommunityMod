@@ -3,7 +3,7 @@
 - Victory Imports Mechanic Backup Weapon: Glock 19 chance reduced 105% to 100% (thanks to GuiShing #5)
 - Hotfix bug where the weapons were offset
 - SEF_Community_Credits file added
-
+- Discord Link added
 
 ### v7.2 Community Version
 - More weapon varietys for suspects (thanks to GuiShing #1)
