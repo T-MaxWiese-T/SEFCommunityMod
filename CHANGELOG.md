@@ -2,6 +2,7 @@
 - The latest version of the "HugeOfficerVarieties" Mod added - The objective of this mod is to add varieties of every piece of equipment (thanks to EFdee and TargetAcquired)
 - Victory Imports Mechanic Backup Weapon: Glock 19 chance reduced 105% to 100% (thanks to GuiShing #5)
 - Hotfix bug where the weapons were offset
+- SEF_Community_Credits file added
 
 
 ### v7.2 Community Version
