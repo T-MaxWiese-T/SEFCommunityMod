@@ -1,4 +1,9 @@
 ### v7.2 Community Version
+- The latest version of the "HugeOfficerVarieties" Mod added - The objective of this mod is to add varieties of every piece of equipment(thanks to EFdee and TargetAcquired)
+- Victory Imports Mechanic Backup Weapon: Glock 19 chance reduced 105% to 100%
+
+
+### v7.2 Community Version
 - More weapon varietys for suspects (thanks to GuiShing #1)
 - Added a missing number of points in the debriefing
 - Configured internet speed increased and screen resolution adapted to the most common
