@@ -17,6 +17,7 @@
 - Screenshots folder bat added (easy to create screenshots folder and manage)
 - Less strict bonus in debriefing
 - Realistic capacity quantity
+- Fixed a wrong hint and removed some unnecessary Gamespy content
 
 
 ### v7.1 Community Version
