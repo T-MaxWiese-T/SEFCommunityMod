@@ -1,4 +1,12 @@
-### v7.3 Community Version
+### v7.4(Beta) SEF Community Version
+- New weapon models inserted/replaced and new holder and walkie talkie (thanks to Beppe_goodoldrebel)
+- (All) placeholder files removed
+- Graphics settings are now by default high and screen size 1920x1080 (Full HD) and FOV increased (because of the weapons holos)
+- Graphical user interface reactivated (because some people didn't know that you can activate it)
+- Log something cleaned up
+
+
+### v7.3(Beta) SEF Community Version
 - The latest version of the "HugeOfficerVarieties" Mod added - The objective of this mod is to add varieties of every piece of equipment (thanks to EFdee and TargetAcquired)
 - Victory Imports Mechanic Backup Weapon: Glock 19 chance reduced 105% to 100% (thanks to GuiShing #5)
 - Hotfix bug where the weapons were offset (thanks to CFSO2615   for reporting the bug)
@@ -7,7 +15,7 @@
 - Missing sounds added
 
 
-### v7.2 Community Version
+### v7.2(Beta) SEF Community Version
 - More weapon varietys for suspects (thanks to GuiShing #1)
 - Added a missing number of points in the debriefing
 - Configured internet speed increased and screen resolution adapted to the most common
@@ -24,7 +32,7 @@
 - Fixed a wrong hint and removed some unnecessary Gamespy content
 
 
-### v7.1 Community Version
+### v7.1(Beta) SEF Community Version 
  
 - SwatED Link Update
 - Added internet speed hint
