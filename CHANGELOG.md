@@ -1,3 +1,11 @@
+### v7.4.1 (Beta) SEF Community Version
+- Text files added
+- Version updated
+- LaunchSEF.bat works again
+- MD5.bat updated
+- Logs removed
+
+
 ### v7.4 (Beta) SEF Community Version
 - Many weapon models inserted/replaced, new holder, Mich 2000 + PVS7 model and walkie talkie (thanks to Beppe_goodoldrebel)
 - Partially removed old weapon models
