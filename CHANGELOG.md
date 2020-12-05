@@ -1,5 +1,6 @@
 ### v7.4(Beta) SEF Community Version
-- New weapon models inserted/replaced and new holder and walkie talkie (thanks to Beppe_goodoldrebel)
+- Many weapon models inserted/replaced, new holder, Mich 2000 + PVS7 model and walkie talkie (thanks to Beppe_goodoldrebel)
+- Partially removed old weapon models
 - (All) placeholder files removed
 - Graphics settings are now by default high and screen size 1920x1080 (Full HD) and FOV increased (because of the weapons holos)
 - Graphical user interface reactivated (because some people didn't know that you can activate it)
