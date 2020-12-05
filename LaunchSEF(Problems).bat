@@ -4,7 +4,7 @@ REM Author: eezstreet
 REM Basic checking to make sure that the user has installed the mod correctly
 
 REM Check to make sure the user installed the mod correctly.
-IF NOT EXIST ../SEF/NUL (
+IF NOT EXIST ../SEF Community Mod v7.4.1 (Beta)/NUL (
 	ECHO It would seem as though you've made a grave error!
 	ECHO You copied the *contents* of the SEF folder from the ZIP archive and overwrote your original game's content with SEF, when you needed to copy the folder itself!
 	ECHO You'll most likely need to reinstall your game. Make sure that you copy the folder next time, not the contents of the folder. You should have at least three folders: Content, ContentExpansion, and SEF, in your SWAT 4 directory.
@@ -37,7 +37,7 @@ IF NOT EXIST System/Startup.ini (
 )
 
 REM Tell the user that we are running the mod
-ECHO Launching SWAT: Elite Force
+ECHO Launching SWAT: Elite Force C
 
 REM Run Swat4.exe from inside SEFMod\System, so that the
 REM game uses the mod's initialisation files and settings
