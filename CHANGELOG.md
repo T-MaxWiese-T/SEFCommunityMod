@@ -1,3 +1,13 @@
+### v7.5 (main version) (Beta) SEF Community Version
+- Many improvements for the Commands Mod (for example missing voice recordings added, the pages improved and for missing voices walkie talkie sound added)
+- Source code files inserted (More possibilities for the future)
+- Non-existent P226 removed
+- Fixed Iron Sight bug with Colt 635 SMG (thanks to GuiShing #6)
+- Removed old weapon content (saves disk storage)
+- All "additional" files from the mods are now included in the SEF folder
+- In the future almost only the changed files will be uploaded, which saves time and nerves
+
+
 ### v7.4.1 (Beta) SEF Community Version
 - Text files added
 - Version updated
