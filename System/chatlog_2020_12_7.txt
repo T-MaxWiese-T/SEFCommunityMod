@@ -1,0 +1,4 @@
+[07/12/2020 19:52:18] Operator () connected to the game server.
+[07/12/2020 19:52:55] The round has started.
+[07/12/2020 19:53:09] The mission has ended.
+[07/12/2020 19:53:09] Operator () disconnected from game server.
