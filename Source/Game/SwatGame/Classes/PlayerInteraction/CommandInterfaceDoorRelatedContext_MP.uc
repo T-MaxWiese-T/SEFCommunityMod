@@ -1,2 +1,0 @@
-class CommandInterfaceDoorRelatedContext_MP extends CommandInterfaceDoorRelatedContext
-    config(PlayerInterface_Command_MP);

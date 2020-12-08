@@ -1,1 +1,0 @@
-interface IEvidence extends ICanBeUsed;

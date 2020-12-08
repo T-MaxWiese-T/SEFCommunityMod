@@ -1,1 +1,0 @@
-class SilencedColtSMG extends ColtSMG config(SwatEquipment);
