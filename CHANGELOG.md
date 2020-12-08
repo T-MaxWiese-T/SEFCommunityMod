@@ -1,7 +1,7 @@
 ### v7.5.1 (Beta) SEF Community Version
 - Much unnecessary Gamespy content removed
 - SEF Community Mod is now based on SEF v7.1(Beta)(which contains some improvements for example attachments for weapons)
-- Many weapon bugs should be fixed now
+- Many weapon bugs should be fixed nowd
 
 
 ### v7.5 (main version) (Beta) SEF Community Version
