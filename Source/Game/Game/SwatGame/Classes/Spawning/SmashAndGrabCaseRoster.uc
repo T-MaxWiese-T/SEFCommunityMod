@@ -1,1 +1,0 @@
-class SmashAndGrabCaseRoster extends MPRoster;

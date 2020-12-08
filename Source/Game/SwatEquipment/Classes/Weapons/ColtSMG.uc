@@ -1,1 +1,0 @@
-class ColtSMG extends SubMachineGun config(SwatEquipment);

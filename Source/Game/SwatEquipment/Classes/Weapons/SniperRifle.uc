@@ -1,1 +1,0 @@
-class SniperRifle extends SierraTeamWeapon;

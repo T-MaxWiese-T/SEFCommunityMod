@@ -1,35 +1,32 @@
 [Procedure_CompleteMission]
-Description=Mission completed (0-40 points)
+Description=Mission completed
 
 [Procedure_ArrestUnIncapacitatedSuspects]
-Description=Suspects arrested (0-20 points)
+Description=Suspects arrested
 
 [Procedure_ArrestIncapacitatedSuspects]
-Description=Suspects incapacitated (0-15 points)
+Description=Suspects incapacitated
 
 [Procedure_KillSuspects]
-Description=Suspects neutralized (0-10 points)
+Description=Suspects neutralized
 
 [Procedure_NoSuspectsNeutralized]
-Description=No suspects neutralized (0-5 points)
+Description=No suspects neutralized
 
 [Procedure_NoCiviliansInjured]
-Description=No civilians injured (0-5 points)
-
-[Procedure_AllCiviliansUnharmed]
-Description=All civilians unharmed (0-10 points)
+Description=No civilians injured
 
 [Procedure_NoOfficersDown]
-Description=No officers down (0-10 points)
+Description=No officers down
 
 [Procedure_PlayerUninjured]
-Description=Player uninjured (0-5 points)
+Description=Player uninjured
 
 [Procedure_ReportCharactersToTOC]
-Description=Report status to TOC (0-10 points)
+Description=Report status to TOC
 
 [Procedure_SecureAllWeapons]
-Description=All evidence secured (0-5 points)
+Description=All evidence secured
 
 [Procedure_EvacuateDownedOfficers]
 Description=Failed to report a downed officer
@@ -50,15 +47,15 @@ ChatMessage=[c=ffff00]Killed Hostage (-50)[\c]
 
 [Procedure_NoOfficerIncapacitated]
 Description=Incapacitated a fellow officer
-ChatMessage=[c=ffff00]Incapacitated Officer (-50)[\c]
+ChatMessage=[c=ffff00]Incapacitated Officer (-25)[\c]
 
 [Procedure_NoOfficerInjured]
 Description=Injured a fellow officer
-ChatMessage=[c=ffff00]Injured Officer (-15)[\c]
+ChatMessage=[c=ffff00]Injured Officer (-10)[\c]
 
 [Procedure_NoOfficerTased]
 Description=Tased a fellow officer
-ChatMessage=[c=ffff00]Tased Officer (-15)[\c]
+ChatMessage=[c=ffff00]Tased Officer (-5)[\c]
 
 [Procedure_NoUnauthorizedUseOfDeadlyForce]
 Description=Unauthorized use of deadly force

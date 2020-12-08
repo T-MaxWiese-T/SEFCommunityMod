@@ -1,3 +1,0 @@
-interface IInterested_GameEvent_Special;
-
-function OnSpecialGameEvent(name SpecialObjectiveEvent);

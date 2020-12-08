@@ -1,1 +1,0 @@
-class AmmoBandolier extends Engine.AmmoBandolierBase;

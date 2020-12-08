@@ -1,1 +1,0 @@
-class GenericDamageType extends DamageType;
