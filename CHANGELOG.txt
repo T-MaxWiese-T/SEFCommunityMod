@@ -1,3 +1,8 @@
+### v7.5.1 (Beta) SEF Community Version
+- Much Gamespy content removed
+- SEF Community Mod is no longer based on eezstreet's v7 but on the v7.1 (which contains some improvements for example attachments for weapons)
+
+
 ### v7.5 (main version) (Beta) SEF Community Version
 - Many improvements for the Commands Mod (for example missing voice recordings added, the pages improved and for missing voices walkie talkie sound added)
 - Source code files inserted (More possibilities for the future)
