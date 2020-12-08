@@ -1,1 +1,0 @@
-Have you downloaded a .pak file? Place it in this folder, and it will be available in the Quick Mission Maker!
