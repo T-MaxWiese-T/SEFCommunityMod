@@ -2516,10 +2516,6 @@ GameModeAndLevelString=%2                Mode: %1
 [SwatIntroMenu_WaitDialogueDoNotUse_CaptionLabel]
 Caption=Searching for available maps...
 
-[SwatServerSetupMenu_Profile]
-Caption=GAMESPY PROFILE
-Hint=Enter your GameSpy profile details, used for stat-tracking.
-
 [SwatServerSetupMenu_hosttitlelabel]
 Caption=HOST GAME
 
@@ -2915,9 +2911,6 @@ Hint=Start the mission
 
 [SwatServerBrowserMenu_internetlabelagain]
 Caption=Internet
-Hint=Start the mission
-
-[SwatServerBrowserMenu_GamespyImage]
 Hint=Start the mission
 
 [SwatServerBrowserMenu_backgreyimage]
