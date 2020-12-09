@@ -1,5 +1,6 @@
 ### v7.5.2 (Beta) (Update) SEF Community Version
 - A few weapons have been replaced and many bugs concerning weapons have been fixed for example the p226 was replaced and the mp5sd6 (thanks to Beppe_goodoldrebel for the support)
+- Some suspects were made more aggressive (thanks to GuiShing #10)
 
 
 ### v7.5.1 (Beta) (Update) SEF Community Version
