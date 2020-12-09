@@ -1,4 +1,8 @@
-### v7.5.1 (Beta) SEF Community Version
+### v7.5.2 (Beta) (Update) SEF Community Version
+- A few weapons have been replaced and many bugs concerning weapons have been fixed for example the p226 was replaced and the mp5sd6 (thanks to Beppe_goodoldrebel for the support)
+
+
+### v7.5.1 (Beta) (Update) SEF Community Version
 - Unnecessary Gamespy content removed
 - SEF Community Mod is now based on SEF v7.1(Beta)(which contains some improvements for example attachments for weapons)
 - Many weapon bugs should be fixed now
