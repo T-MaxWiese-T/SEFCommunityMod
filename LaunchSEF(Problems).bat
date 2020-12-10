@@ -4,7 +4,7 @@ REM Author: eezstreet
 REM Basic checking to make sure that the user has installed the mod correctly
 
 REM Check to make sure the user installed the mod correctly.
-IF NOT EXIST ../SEF Community Mod v7/NUL (
+IF NOT EXIST ../SEF_Community_Mod_v7/NUL (
 	ECHO It would seem as though you've made a grave error!
 	ECHO You copied the *contents* of the SEF folder from the ZIP archive and overwrote your original game's content with SEF, when you needed to copy the folder itself!
 	ECHO You'll most likely need to reinstall your game. Make sure that you copy the folder next time, not the contents of the folder. You should have at least three folders: Content, ContentExpansion, and SEF, in your SWAT 4 directory.
