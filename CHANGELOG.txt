@@ -2,7 +2,7 @@
 - Weapon description of the Beretta adjusted
 - Almost all iron sights bugs should be fixed now and every weapon should be visible. Unless it is written in the description it does not work
 - SCAR H ported the 1st person model in the 3rd and added Aimpoint variation (thanks to Beppe_goodoldrebel)
-- Fixed the iron sights of the Kimber 1911 (thanks to GuiShing)
+- Fixed the iron sights of the Kimber 1911 #11 and fixed the Suppressed M4A1 CQB iron sight #14 (thanks to GuiShing)
 - 1920x1080 screen resolution adjusted again
 
 
