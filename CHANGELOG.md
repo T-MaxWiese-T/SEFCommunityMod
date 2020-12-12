@@ -1,3 +1,11 @@
+### v7.5.3 (Beta) (Update) SEF Community Version
+- Weapon description of the Beretta adjusted
+- Almost all iron sights bugs should be fixed now and every weapon should be visible. Unless it is written in the description it does not work
+- SCAR H ported the 1st person model in the 3rd and added Aimpoint variation (thanks to Beppe_goodoldrebel)
+- Fixed the iron sights of the Kimber 1911 (thanks to GuiShing)
+- 1920x1080 screen resolution adjusted again
+
+
 ### v7.5.2 (Beta) (Update) SEF Community Version
 - A few weapons have been replaced and many bugs concerning weapons have been fixed for example the p226 was replaced and the mp5sd6 (thanks to Beppe_goodoldrebel for the support)
 - Some suspects were made more aggressive (thanks to GuiShing #10)
