@@ -77,7 +77,8 @@ TotalAmmoString=10 magazines
 RateOfFire=390 RPM
 
 [SilencedP226HG]
-Description=The SIG Sauer P226 is the high capacity version of the P220, using double stacked, 20-round magazines instead of the latter's single stacked magazines. Chambered in 9x19mm, the P226 is widely used in police departments throughout the United States and Canada. This model is equipped with a sound and flash suppressor for when stealth is paramount.
+;Description=The SIG Sauer P226 is the high capacity version of the P220, using double stacked, 20-round magazines instead of the latter's single stacked magazines. Chambered in 9x19mm, the P226 is widely used in police departments throughout the United States and Canada. This model is equipped with a sound and flash suppressor for when stealth is paramount.
+Description=DONT WORK!
 FriendlyName=Suppressed P226
 ShortName=Sup. P226
 Manufacturer=SIG Sauer
