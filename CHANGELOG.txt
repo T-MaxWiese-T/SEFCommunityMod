@@ -4,6 +4,7 @@
 - SCAR H ported the 1st person model in the 3rd and added Aimpoint variation (thanks to Beppe_goodoldrebel)
 - Fixed the iron sights of the Kimber 1911 #11 and fixed the Suppressed M4A1 CQB iron sight #14 (thanks to GuiShing)
 - 1920x1080 screen resolution adjusted again
+- Added Motorola walkie talkie and Safariland holster again
 
 
 ### v7.5.2 (Beta) (Update) SEF Community Version
