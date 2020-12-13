@@ -1,3 +1,8 @@
+### v7.6 (Beta) (main version) SEF Community Version
+- All previous versions merged and some optimizations made. This version should work well in multiplayer.
+- SEF_Community_Server.txt added
+
+
 ### v7.5.3 (Beta) (Update) SEF Community Version
 - Weapon description of the Beretta adjusted
 - Almost all iron sights bugs should be fixed now and every weapon should be visible. Unless it is written in the description it does not work
