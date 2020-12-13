@@ -1,3 +1,12 @@
+### v7.6.1 (Beta) (Update) SEF Community Version
+- Version renamed to SEF. This means that SEF community servers are now also displayed next to normal sef servers and on swat4stats.com
+- Added a hostage command with walkie talkie sound and made the layout more usefull.
+- Player name has been renamed to MP name
+- Hint for training has been extended
+- Weapon cabinet heading geometrically adjusted
+- The name label in the serverbrowser was visually beautified and the text was adjusted.
+
+
 ### v7.6 (Beta) (main version) SEF Community Version
 - All previous versions merged and some optimizations made. This version should work well in multiplayer.
 - SEF_Community_Server.txt added
