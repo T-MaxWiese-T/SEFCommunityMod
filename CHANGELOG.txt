@@ -1,3 +1,12 @@
+### v7.6.2 (Beta) (Update) SEF Community Version
+- Server version adjusted so that the SEF Community servers are really displayed on swat4stats.com
+- Penealties fixed where in the chat was a much higher number than was really deducted
+- Added more voice recordings for the command "trailers"
+- Added swat4stats website link for server browser 
+- Adjusted link masterserverpatch
+- Added custom maps rating for hosting menu
+
+
 ### v7.6.1 (Beta) (Update) SEF Community Version
 - Version renamed to SEF. This means that SEF community servers are now also displayed next to normal sef servers and on swat4stats.com
 - Added a hostage command with walkie talkie sound and made the layout more usefull.
