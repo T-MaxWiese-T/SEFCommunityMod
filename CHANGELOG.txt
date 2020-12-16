@@ -1,4 +1,10 @@
 ### v7.6.2 (Beta) (Update) SEF Community Version
+- Removed unnecessary equip_protection (thanks to S4 for the catch)
+- Fixed HOV helmets in multiplayer. This means that the helmets should now work and be visible in multiplayer. (thanks to S4 for the final solution)
+- Fixed bug where the singleplayer equipment menu was broken 
+- Added Beppe his equipment for multiplayer (safari holster, motorola and mich2000 helmet) (thanks to S4 for the support)
+
+### v7.6.2 (Beta) (Update) SEF Community Version
 - Server version adjusted so that the SEF Community servers are really displayed on swat4stats.com
 - Penealties fixed where in the chat was a much higher number than was really deducted
 - Added more voice recordings for the command "trailers"
