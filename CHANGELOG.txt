@@ -2,7 +2,7 @@
 - Sound Improvement Mod - SWAT: Elite Force (v3) added (thanks to EFdee for the mod)
 - Added punching animations and other animations for some of beppes models
 - Added a description for Beretta (thanks to SFOD-D-Sandman)
-- Added ON MY MARK command with new voice recordings (thanks to Sphee for the suggestion)
+- Added ON MY MARK command with new voice recordings for multiplayer (thanks to Sphee for the suggestion)
 
 
 ### v7.7 (Beta) (main version) SEF Community Version
