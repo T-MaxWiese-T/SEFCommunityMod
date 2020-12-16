@@ -1,3 +1,10 @@
+### v7.7.1 (Beta) (Update) SEF Community Version
+- Sound Improvement Mod - SWAT: Elite Force (v3) added (thanks to EFdee for the mod)
+- Added punching animations and other animations for some of beppes models
+- Added a description for Beretta (thanks to SFOD-D-Sandman)
+- Added ON MY MARK command with new voice recordings (thanks to Sphee for the suggestion)
+
+
 ### v7.7 (Beta) (main version) SEF Community Version
 - Removed unnecessary equip_protection (thanks to S4 for the catch)
 - Fixed HOV helmets in multiplayer. This means that the helmets should now work and be visible in multiplayer (thanks to S4 for the final solution)
