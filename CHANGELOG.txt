@@ -10,7 +10,6 @@
 - Added again SwatProtectiveEquipment2 because the mich2000 textures were not visible
 
 
-
 ### v7.7.1 (Beta) (Update) SEF Community Version
 - Sound Improvement Mod - SWAT: Elite Force (v3) added (thanks to EFdee for the mod)
 - Added punching animations and other animations for some of beppes models
