@@ -1,3 +1,16 @@
+### v7.7.2 (Beta) (Update) SEF Community Version
+- Fixed some wrong multiplayer commands and integrated them cleanly (thanks to Sphee for the hint)
+- Added "You are in my way" voice recordings for multiplayer (thanks to Sphee for the suggestion)
+- Moved "AFFIRM" and "DENY" commands further up because it was very close to the edge
+- Moved "ON MY MARK" to the command page (thanks to Sphee for the suggestion)
+- Added missing animations for beppes weapons
+- Added muzzleflash for the beretta 
+- Added realistic weight values for tactical equipment
+- Added MD5 files (because again some players could not join a server because they did not execute the GenereateMD5.bat file) (thanks to S4 for the hint)
+- Added again SwatProtectiveEquipment2 because the mich2000 textures were not visible
+
+
+
 ### v7.7.1 (Beta) (Update) SEF Community Version
 - Sound Improvement Mod - SWAT: Elite Force (v3) added (thanks to EFdee for the mod)
 - Added punching animations and other animations for some of beppes models
