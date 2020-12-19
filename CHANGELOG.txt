@@ -7,7 +7,9 @@
 - Added muzzleflash for the beretta 
 - Added realistic weight values for tactical equipment
 - Added MD5 files (because again some players could not join a server because they did not execute the GenereateMD5.bat file) (thanks to S4 for the hint)
-- Added again SwatProtectiveEquipment2 because the mich2000 textures were not visible
+- Added again SwatProtectiveEquipment_2 because the mich2000 textures were not visible
+- Renamed "GenerateMD5.bat" to "GenerateMD5(Join problems).bat" to better understand its purpose
+- Added Mich2000 helmet and safari holster texture again
 
 
 ### v7.7.1 (Beta) (Update) SEF Community Version
