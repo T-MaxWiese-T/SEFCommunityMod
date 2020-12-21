@@ -227,6 +227,25 @@ DeactivatedMesh=StaticMesh'HOVhelmetsMOD.V1tacticNightVisionUP'
 Weight=0.68
 Bulk=1.4
 
+[SwatProtectiveEquipmentHOVb.mich2000_nvg]
+PlayerUsable=true
+Description=Mich2000 with night vision
+FriendlyName=Mich2000+NVG
+GUIImage=Texture'None'
+DeactivatedMesh=StaticMesh'mich2000_sm.mich_static'
+Weight=2.0
+Bulk=2.5
+
+[SwatProtectiveEquipmentHOVb.mich2000_nvg_up]
+PlayerUsable=true
+Description=Mich2000 with night vision up
+FriendlyName=Mich2000+NvgUp
+GUIImage=Texture'None'
+DeactivatedMesh=StaticMesh'mich2000_sm.mich_static_up'
+Weight=2.0
+Bulk=2.5
+
+
 [SwatProtectiveEquipmentHOV.V2tactic]
 PlayerUsable=true
 Description=Headphones/Camera/Helmet
@@ -432,6 +451,14 @@ PlayerUsable=true
 Description=Headphones/Camera/HardHelmet/Goggles
 FriendlyName=TacticGogglesV5
 GUIImage=material'GuiV5helmets.V5tacticGoggles'
+Weight=2.0
+Bulk=2.5
+
+[SwatProtectiveEquipmentHOVc.mich2000]
+PlayerUsable=true
+Description=Normal Mich2000 helmet
+FriendlyName=Mich2000
+GUIImage=Texture'None'
 Weight=2.0
 Bulk=2.5
 
