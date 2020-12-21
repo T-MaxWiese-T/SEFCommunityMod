@@ -1,3 +1,14 @@
+### v7.7.3 (Beta) (Update) SEF Community Version
+- Fixed missing Jackson "You are in my way" voice recordings for multiplayer (thanks to Sphee for the hint)
+- Added "RUNNER!" command with voice recordings for MP (thanks to S4 for the suggestion)
+- Renamed "DENY/AFFIRM >>" to "DESCRIPTION >>" for MP
+- "DOOR IS OPEN" voice recordings activated again for MP
+- Increased Sawed-off capacity from 1 to 4 rounds (thanks to GuiShing)
+- Colt 635 SMG have now 32 round mags instead of 30 rounds. In addition, the colt now has its own magazine (thanks to GuiShing and Efdee)
+- Maybe the bug where the Colt pistol looked weird on the holster is also fixed. (thanks to Sphee for the hint)
+- The three mich2000 helmets have now been neatly integrated, which means that all three should now work and be selectable, and better descriptions have been added
+
+
 ### v7.7.2 (Beta) (Update) SEF Community Version
 - Fixed some wrong multiplayer commands and integrated them cleanly (thanks to Sphee for the hint)
 - Added "You are in my way" voice recordings for multiplayer (thanks to Sphee for the suggestion)
