@@ -1,5 +1,7 @@
-The Community Mod has an active public server. 
-The IP address is: 195.201.217.123:30480  (thanks so S4) (It may be that server sometimes has an outdated version because it must be updated). 
+*The Community Mod has an active public server:
+Servername: "SEFC Beta www.swat4.tk" -> Server IP address: 195.201.217.123:30480   
+Server IP address -> 195.201.217.123:30480  (thanks to S4) (It may be that server sometimes has an outdated version because it must be updated). 
 It should also be displayed in the serverbrowser if the filters are set correctly and the masterserverpatch is installed.
-If someone wants to host a server he should write in in the SEF Community Discord and you can meet there to play. You can also send in server ip addresses that are temporary. 
+
+*If someone wants to host a server he should write in in the SEF Community Discord and you can meet there to play. You can also send in server ip addresses that are temporary. 
 Someone who hosts a public active community mod server gets the role  @Supporter  and @Serverowner in the SEF Community Discord.
