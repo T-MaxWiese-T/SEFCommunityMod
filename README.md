@@ -185,9 +185,9 @@ Use the Optiwand, and aim up at the doorknob.
 Please read the How to Play in Multiplayer section of this README. :)
 
 ## HOW CAN I REPORT A BUG?
-The best, and preferred method is to post it directly on our GitHub issues page: https://github.com/eezstreet/SWATEliteForce/issues
+The best, and preferred method is to post it directly on our GitHub issues page: 
 However, since doing so requires a GitHub account, it's not the most desirable option. You can also post on the Moddb page, which doesn't require an account.
-Additionally, you can check us out on Discord, and chat with the developers: https://discord.gg/RfujTnF
+Additionally, you can check us out on Discord, and chat with the developers: 
 
 ## WHY CAN'T I PLAY IN BARRICADED SUSPECTS, VIP ESCORT, SMASH AND GRAB, OR RAPID DEPLOYMENT?
 This mod uses very realistic values for the weapons, and ultimately it doesn't play well in PvP modes for those reasons.
