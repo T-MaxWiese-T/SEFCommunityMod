@@ -1,7 +1,9 @@
-*The SEF Community Mod has an active public server:
+*The SEF Community Mod has an active public CO-OP Multiplayer server:
 Servername: "SEFC Beta www.swat4.tk" -> Server IP address: 195.201.217.123:30480   
-Thanks to S4 (www.swat4.tk) for providing the server (It may be that server sometimes has an outdated version because it must be updated). 
-It should also be displayed in the serverbrowser if the filters are set correctly and the masterserverpatch is installed.
+Thanks to S4 (website: www.swat4.tk) for providing the server (It may be that server sometimes has an outdated version because it must be updated). 
+The server should also be displayed in the serverbrowser if the filters are set correctly and the masterserverpatch is installed.
+
+*If you need help or have questions join the SEF Community Discord!
 
 *If someone wants to host a server he should write in the SEF Community Discord and you can meet there to play. You can also send in server ip addresses that are temporary. 
-Someone who hosts a public active community mod server gets the role  @Supporter  and @Serverowner in the SEF Community Discord.
+Someone who hosts a public active community mod server gets the role  @Supporter and @Serverowner in the SEF Community Discord.
