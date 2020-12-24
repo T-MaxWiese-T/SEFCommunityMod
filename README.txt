@@ -327,11 +327,20 @@ Please read the FAQ before looking here! It's entirely possible that what you ar
 
 ## Using GameRanger  to play with friends (preferred): ##
 
-BOTH PLAYERS will need to do the following:  1. Download and install GameRanger. It can be found at http://gameranger.com Next, GameRanger will automatically detect SWAT 4 and SWAT 4: The Stetchkov Syndicate, if all is OK. You may need to manually detect these, if GameRanger doesn't do it for you. 2. You will need to rename the **LaunchSEF.exe** in **SEFCommunityModv7/Extras** to **SWAT4X.exe** so Gameranger will recognize it. (It's named LaunchSEF.exe so that it isn't automatically detected!) 3. Then, you will need to modify the Stetchkov Syndicate game in Gameranger so it points to the Swat4X.exe file in **SEFCommunityModv7/Extras/Swat4X.exe**
+BOTH PLAYERS will need to do the following:  
+ 1. Download and install GameRanger. It can be found at http://gameranger.com  Next, GameRanger will automatically detect "SWAT 4" and "SWAT 4: The Stetchkov Syndicate", if all is OK. You may need to manually detect these, if GameRanger doesn't do it for you. 
+2. You will need to rename the **"LaunchSEF.exe"** in **SEFCommunityModv7/Extras** to **"SWAT4X.exe"** so Gameranger will recognize it. (It's named LaunchSEF.exe so that it isn't automatically detected!) 
+3. Then, you will need to modify the "Stetchkov Syndicate" game in Gameranger so it points to the Swat4X.exe file in **SEFCommunityModv7/Extras/Swat4X.exe** (Edit -> Options -> Games ->  "Stetchkov Syndicate" -> "Browse..." and then set the location to your SEF Community Mod folder to the **"SWAT4X.exe"** in **"Extras"**.  
+(Side note: I also recommend to go to the **"Network"** tab in the Options and set the connection speed to **"2Mbps DSL/Cable"** so that the connection is faster and more stable when playing.) Also, I recommend having **"LAN"** selected in the **SEF Community Mod settings** so that you have the fastest connection.
 
-THE HOST will need to do the following: 1. Create a game room, as a SWAT 4: The Stetchkov Syndicate game. (TIP: if this is going to be a publicly joinable game, be sure to mention it's using the SEF Community mod and specify the version!) 2. When enough players have joined, press the Start Game button. This will launch the game. 3. From here, go to the Host Game menu and start up a server (LAN must be selected!) . Important Note: Do not launch as a dedicated server while using GameRanger. The other players will automatically connect to your game while you are loading the map. They can see your server in the game serverbrowser menu if they have selected "LAN".
+THE HOST will need to do the following: 
+1. Create a game room in Gameranger with **"Host"**, as a "SWAT 4: The Stetchkov Syndicate game". (TIP: if this is going to be a publicly joinable game, be sure to mention it's using the SEF Community mod and specify the version!) 
+2. When enough players have joined, press the **"Start"** button. This will launch the SEF Community Mod. 
+3. From here, go to the **"Host Game"** in game menu and start up a server (LAN must be selected!) . Important Note: Do not launch as a dedicated server while using GameRanger. Teammates can see your server in the game serverbrowser if they have selected **"LAN"**.
 
-THE CLIENT will need to do the following: 1. Join a public game, or your friend's game. You must have "LAN" selected in the serverbrowser menu and can then see and join the server. That's all you really need to do.
+YOUR TEAMMATES will need to do the following: 
+1. Join a public room, or your friend's room and then press "Join" that will opens SEF Community Mod. 
+2. Press in the main menu "Join Game" and then  select "LAN" in the in game serverbrowser and you can then see and join the server. That's all you really need to do.
 
 ### TROUBLESHOOTING ###
 **NOTE: If you have the mod installed incorrectly, LaunchSEF.exe won't work!**
