@@ -12,13 +12,12 @@ The best way to explain SWAT: Elite Force Community Mod in short is a complete o
 1. How to Install
 2. Building from Source
  - Contributing to the mod
-3. Changes, Summarized
-4. Frequently Asked Questions (FAQ)
-5. Mod Compatibility
-6. Known Issues
-8. How to play in Multiplayer
-9. Credits
-10. License
+3. Frequently Asked Questions (FAQ)
+4. Mod Compatibility
+5. Known Issues
+6. How to play in Multiplayer
+7. Credits
+8. License
 
 
 # HOW TO INSTALL #
@@ -44,7 +43,7 @@ NOTE: You may run into an issue with the game not saving your settings, or throw
 If you are instead trying to build the source code, it is fairly straightforward.
 
  * Clone the source code into your SWAT 4 folder. Your folder structure ought to look very similar to the installed mod, with SWATEliteForce within your SWAT 4 folder.
- * Download the assets from the link above. Unzip the contents into your SWATEliteForce/Content folder. *Do not commit these files if you are using Git.*
+ * Download the assets from the link above. Unzip the contents into your SEFCommunityModv7GitHub/Content folder. *Do not commit these files if you are using Git.*
  * From here, you can compile the source code with the CompileSource.bat and run the game with the LaunchSEF.bat. The source code will compile to .u files in the System folder.
  * Edit the source code within /Source/ and any ini files within /System/.
 
@@ -185,9 +184,9 @@ Use the Optiwand, and aim up at the doorknob.
 Please read the How to Play in Multiplayer section of this README. :)
 
 ## HOW CAN I REPORT A BUG?
-The best, and preferred method is to post it directly on our GitHub issues page: https://github.com/eezstreet/SWATEliteForce/issues
+The best, and preferred method is to post it directly on our GitHub issues page: https://github.com/T-MaxWiese-T/SEF_Community_Mod/issues
 However, since doing so requires a GitHub account, it's not the most desirable option. You can also post on the Moddb page, which doesn't require an account.
-Additionally, you can check us out on Discord, and chat with the developers: https://discord.gg/RfujTnF
+Additionally, you can check us out on Discord, and chat with the developers: https://discord.gg/KHajCa28bp
 
 ## WHY CAN'T I PLAY IN BARRICADED SUSPECTS, VIP ESCORT, SMASH AND GRAB, OR RAPID DEPLOYMENT?
 This mod uses very realistic values for the weapons, and ultimately it doesn't play well in PvP modes for those reasons.
@@ -326,22 +325,13 @@ Please read the FAQ before looking here! It's entirely possible that what you ar
 
 # HOW TO PLAY IN MULTIPLAYER #
 
-## Using GameRanger (preferred) ##
-BOTH PLAYERS will need to do the following:
-Download and install GameRanger. It can be found at http://gameranger.com
-Next, GameRanger will automatically detect SWAT 4 and SWAT 4: The Stetchkov Syndicate, if all is OK.
-You may need to manually detect these, if GameRanger doesn't do it for you.
-You will need to rename the LaunchSEF.exe in SEF/Extras to SWAT4X.exe so Gameranger will recognize it. (It's named LaunchSEF.exe so that it isn't automatically detected!)
-Then, you will need to modify the Stetchkov Syndicate game in Gameranger so it points to the Swat4X.exe file in SEF/Extras/Swat4X.exe.
+## Using GameRanger  to play with friends (preferred): ##
 
-THE HOST will need to do the following:
-Create a game room, as a SWAT 4: The Stetchkov Syndicate game. (TIP: if this is going to be a publicly joinable game, be sure to mention it's using the SEF mod and specify the version!)
-When enough players have joined, press the Start Game button. This will launch the game. From here, go to the Host Game menu and start up a server.
-Important Note: Do not launch as a dedicated server while using GameRanger.
-The other players will automatically connect to your game while you are loading the map.
+BOTH PLAYERS will need to do the following:  1. Download and install GameRanger. It can be found at http://gameranger.com Next, GameRanger will automatically detect SWAT 4 and SWAT 4: The Stetchkov Syndicate, if all is OK. You may need to manually detect these, if GameRanger doesn't do it for you. 2. You will need to rename the **LaunchSEF.exe** in **SEFCommunityModv7/Extras** to **SWAT4X.exe** so Gameranger will recognize it. (It's named LaunchSEF.exe so that it isn't automatically detected!) 3. Then, you will need to modify the Stetchkov Syndicate game in Gameranger so it points to the Swat4X.exe file in **SEFCommunityModv7/Extras/Swat4X.exe**
 
-THE CLIENT will need to do the following:
-Join a public game, or your friend's game. That's all you really need to do.
+THE HOST will need to do the following: 1. Create a game room, as a SWAT 4: The Stetchkov Syndicate game. (TIP: if this is going to be a publicly joinable game, be sure to mention it's using the SEF Community mod and specify the version!) 2. When enough players have joined, press the Start Game button. This will launch the game. 3. From here, go to the Host Game menu and start up a server (LAN must be selected!) . Important Note: Do not launch as a dedicated server while using GameRanger. The other players will automatically connect to your game while you are loading the map. They can see your server in the game serverbrowser menu if they have selected "LAN".
+
+THE CLIENT will need to do the following: 1. Join a public game, or your friend's game. You must have "LAN" selected in the serverbrowser menu and can then see and join the server. That's all you really need to do.
 
 ### TROUBLESHOOTING ###
 **NOTE: If you have the mod installed incorrectly, LaunchSEF.exe won't work!**
