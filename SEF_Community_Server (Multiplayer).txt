@@ -5,5 +5,7 @@ The server should also be displayed in the serverbrowser if the filters are set 
 
 *If you need help or have questions join the SEF Community Mod Discord!
 
-*If someone wants to host a server he should write in the SEF Community Discord and you can meet there to play. You can also send in server ip addresses that are temporary. 
+*If you want to create your own temporary server with your teammates check out my top Gameranger guide.
+
+*If someone wants to host a server he should write in the SEF Community Discord and you can meet there to play. You can also send in server ip addresses or room names for Gameranger that are temporary. 
 Someone who hosts a public active community mod server gets the role  @Supporter and @Serverowner in the SEF Community Discord.
