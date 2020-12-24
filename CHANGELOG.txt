@@ -1,3 +1,13 @@
+### v7.? SEF Community Version
+- Added "SEF_Community_Server (Multiplayer).txt" and edited some things
+- "README.txt" updated
+- "Mod" added to Discord shortcut
+- "SEF_Community_Credits.txt" updated
+- Added "SWAT4X.exe" for Gameranger
+- Added missing Jackson "POSITIVE" voice redcordings for MP
+- Added "RUNNER!" to response page + more logical layout for MP. A few additional small improvements.
+
+
 ### v7.7.3 (Beta) (Update) SEF Community Version
 - Fixed missing Jackson "You are in my way" voice recordings for multiplayer (thanks to Sphee for the hint)
 - Added "RUNNER!" command with voice recordings for MP (thanks to S4 for the suggestion)
