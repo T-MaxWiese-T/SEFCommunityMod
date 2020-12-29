@@ -1,11 +1,25 @@
-### v7.? SEF Community Version
-- Added "SEF_Community_Server (Multiplayer).txt" and edited some things
-- "README.txt" updated
+### v7.? (Beta) (Update) SEF Community Version
 - "Mod" added to Discord shortcut
-- "SEF_Community_Credits.txt" updated
+- Added "SEF_Community_Server (Multiplayer).txt" and edited some things
+
+
+### v7.7.4 (Beta) (Update) SEF Community Version
+- "README.txt" updated
+- Edited "SEF_Community_Server.txt"
+- Updated "SEF_Community_Credits.txt" 
 - Added "SWAT4X.exe" for Gameranger
 - Added missing Jackson "POSITIVE" voice redcordings for MP
-- Added "RUNNER!" to response page + more logical layout for MP. A few additional small improvements.
+- Added "RUNNER!" to response page + more logical layout for MP. A few additional small improvements. (thanks to [SFOD-D]Sandman for his list) 
+- Added Beretta92FSHG.uc (thanks to S4)
+- Fixed inconsistency with SwatEquipment.ini and M4A1sdHolo.uc (thanks to S4)
+- Fixed many weapon variations that were incorrect
+- P226 replaced by the Beretta (thanks to GuiShing and Efdee)
+- Added Phyton gun flashligt (thanks to Efdee)
+- Better optiwand resolution (thanks to Beppe, Efdee and S4)
+- Added "IN POSITION" (general) (thanks to S4 for the suggestion)
+- More "RUNNER!" voice recordings (thanks to Sphee for the suggestion)
+- Added "NO VISUAL" voice recordings (thanks to Sphee for the suggestion)
+- Missing content added again
 
 
 ### v7.7.3 (Beta) (Update) SEF Community Version
