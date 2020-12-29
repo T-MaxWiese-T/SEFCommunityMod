@@ -16,9 +16,9 @@
 - P226 replaced by the Beretta (thanks to GuiShing and Efdee)
 - Added Phyton gun flashligt (thanks to Efdee)
 - Better optiwand resolution (thanks to Infarlock, Beppe, Efdee and S4)
-- Added "IN POSITION" (general) (thanks to S4 for the suggestion)
-- More "RUNNER!" voice recordings (thanks to Sphee for the suggestion)
-- Added "NO VISUAL" voice recordings (thanks to Sphee for the suggestion)
+- Added "IN POSITION" for General - Multiplayer (thanks to S4 for the suggestion)
+- More "RUNNER!" voice recordings for Multiplayer (thanks to Sphee for the suggestion)
+- Added "NO VISUAL" voice recordings for Multiplayer (thanks to Sphee for the suggestion)
 - Missing content added again
 
 
