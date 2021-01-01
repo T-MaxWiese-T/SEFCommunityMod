@@ -1,6 +1,12 @@
-### v7.? (Beta) (Update) SEF Community Version
+### v7.8 (Beta) (main version) SEF Community Version
 - "Mod" added to Discord shortcut
-- Added "SEF_Community_Server (Multiplayer).txt" and edited some things
+- Added "SEF_Community_Server (Multiplayer).txt" 
+- Fixed some weapon textures and missing weapons
+- Gameranger guide added in System folder
+- Rem870pump now works and is displayed
+- Changed unauthorized Deadly Force to -15
+- Wrong voice recordings removed for "NO VISUAL" command in multiplayer
+- Maybe a few log warnings fixed
 
 
 ### v7.7.4 (Beta) (Update) SEF Community Version
