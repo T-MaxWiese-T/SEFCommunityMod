@@ -1,3 +1,12 @@
+### v7.8.1 (Beta) (Update) SEF Community Version
+- Small improvements for the Gameranger guide
+- Some iron sights fixed for example from the M4super90 or G36k with Suppressor
+- Weapon variations fixed. Almost all disabled weapons are now back and working
+- Weapons are now all visible and no longer cause crashes in multiplayer
+- Added new MD5 files
+- "NO VISUAL" voice recordings cleanly integrated for multiplayer so singleplayer recordings are not gone
+
+
 ### v7.8 (Beta) (main version) SEF Community Version
 - "Mod" added to Discord shortcut
 - Added "SEF_Community_Server (Multiplayer).txt" 
