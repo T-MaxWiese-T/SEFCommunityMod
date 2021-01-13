@@ -1,7 +1,7 @@
 ### v7.8.2 (Beta) (Update) SEF Community Version
 - Added nogamma for SWATEd (thanks to Scape for the suggestion)
 - Fixed missing sounds for ScarH Aimpoint + Suppressor and FAL
-- Added red dots for the P90 sight
+- Added red dots for the P90 sights
 - Added missing punch animations for rem870 (thanks to Scape for the hint)
 - Possible fix for the m1911 crash (thanks to Sphee for the hint)
 - Beretta muzzleflash works again
