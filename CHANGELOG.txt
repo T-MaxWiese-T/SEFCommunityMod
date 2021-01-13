@@ -1,3 +1,14 @@
+### v7.8.2 (Beta) (Update) SEF Community Version
+- Added nogamma for SWATEd (thanks to Scape for the suggestion)
+- Fixed missing sounds for ScarH Aimpoint + Suppressor and FAL
+- Added red dots for the P90 sights
+- Added missing punch animations for rem870 (thanks to Scape for the hint)
+- Possible fix for the m1911 crash (thanks to Sphee for the hint)
+- Beretta muzzleflash works again
+- Removed inappropriate voice recordings for "RUNNER!" in multiplayer (thanks to Sphee for the hint)
+- Possible fix for auto download not being enabled (thanks to Scape for the hint)
+
+
 ### v7.8.1 (Beta) (Update) SEF Community Version
 - Small improvements for the Gameranger guide
 - Some iron sights fixed for example from the M4super90 (thanks to Sphee for the hint) or G36k with Suppressor
