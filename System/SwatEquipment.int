@@ -637,7 +637,7 @@ Caliber=7.62x51mm
 CountryOfOrigin=Belgium
 ProductionStart=1954
 FireModes=Semi-Automatic, Full-Auto
-MagazineSizeString=30
+MagazineSizeString=20
 TotalAmmoString=10 magazines
 RateOfFire=700 RPM
 
