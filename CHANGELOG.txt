@@ -1,3 +1,10 @@
+### v7.8.3 (Beta) (Update) SEF Community Version
+- Fixed MP5A4 rear sight is not visible (thanks to GuiShing)
+- Integrated "EFdees_SFX_Improvement_Mod_v4.0" with many improvements (thanks to Efdee)
+- P90 red dots should really work now (thanks to CFSO2615 for the hint)
+- Added new MD5 files
+
+
 ### v7.8.2 (Beta) (Update) SEF Community Version
 - Added nogamma for SWATEd (thanks to Scape for the suggestion)
 - Fixed missing sounds for ScarH Aimpoint + Suppressor and FAL
