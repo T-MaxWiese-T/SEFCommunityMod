@@ -3,6 +3,8 @@
 - Integrated "EFdees_SFX_Improvement_Mod_v4.0" with many improvements (thanks to Efdee)
 - P90 red dots should really work now (thanks to CFSO2615 for the hint)
 - Added new MD5 files
+- Added realistic weight values for the rest of the equipment and missing weight values (thanks to GuiShing and Ryker)
+- FAL now uses ScarH ammo because it is realistic (thanks to GuiShing)
 
 
 ### v7.8.2 (Beta) (Update) SEF Community Version
