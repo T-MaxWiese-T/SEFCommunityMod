@@ -1,3 +1,12 @@
+### v7.8.4 (Beta) (Update) SEF Community Version
+- Fixed some sound bugs that "EFdees_SFX_Improvement_Mod_v4.0" contains
+- Fixed wrong Discord link and hint in the main menu again
+- Fixed frequent M1991 crash in multiplayer and it is now visible in third person again in singleplayer
+- Disabled the MP5ssd6 because of the wrong iron sight and the low ready bug
+- Old P226 content removed and the "dont work" in the category pistols
+- New MD5 files 
+
+
 ### v7.8.3 (Beta) (Update) SEF Community Version
 - Fixed MP5A4 rear sight is not visible (thanks to GuiShing)
 - Integrated "EFdees_SFX_Improvement_Mod_v4.0" with many improvements (thanks to Efdee)
