@@ -1,7 +1,7 @@
 - Project creator and manager (MaxWiese)
 - "HugeOfficerVarieties - SWAT Elite Force" Mod (thanks to EFdee and TargetAcquired)
 - "ReportAdvanced commands(MP) v0.9 (SEFv7.0)" Mod (thanks to The_Munt) 
-- GitHub contributions (thanks to GuiShing) (thanks to [SFOD-D]Sandman)
+- GitHub contributions (thanks to GuiShing) (thanks to [SFOD-D]Sandman) (thanks to S4-swat4tk) 
 - Many weapon models inserted/replaced, new holder, Mich 2000 + PVS7 model and walkie talkie (thanks to Beppe_goodoldrebel)
 - "Sound Improvement Mod - SWAT: Elite Force" (v3) and (v4) (thanks to EFdee)
 - Many important hints especially concerning multiplayer (thanks to S4)
