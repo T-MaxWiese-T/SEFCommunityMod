@@ -63,7 +63,7 @@ MagazineSizeString=13
 TotalAmmoString=10 magazines
 RateOfFire=390 RPM
 
-[P226HG]
+[Beretta92FSHG]
 Description=Beretta 92 FS is a semi-automic pistol which is manufactured by Beretta of Italy. It is fed with 15-round magazines and could be equipped with a supressor for operations in which stealth is needed. It is being used by various military and law-enforcement forces. 
 FriendlyName=Beretta 92FS
 ShortName=Beretta
@@ -75,20 +75,6 @@ FireModes=Semi-Automatic
 MagazineSizeString=15
 TotalAmmoString=10 magazines
 RateOfFire=370 RPM
-
-[SilencedP226HG]
-;Description=The SIG Sauer P226 is the high capacity version of the P220, using double stacked, 20-round magazines instead of the latter's single stacked magazines. Chambered in 9x19mm, the P226 is widely used in police departments throughout the United States and Canada. This model is equipped with a sound and flash suppressor for when stealth is paramount.
-Description=DONT WORK!
-FriendlyName=DONT WORK
-;ShortName=P226
-;Manufacturer=SIG Sauer
-;Caliber=Subsonic 9x19mm
-;CountryOfOrigin=Germany
-;ProductionStart=1984
-;FireModes=Semi-Automatic
-;MagazineSizeString=20
-;TotalAmmoString=10 magazines
-;RateOfFire=390 RPM
 
 [HK33MG]
 Description=While Heckler & Koch's MP5 submachine gun is more popular amongst SWAT, the company at this time developed three other firearms built on the highly successful G3 framework - one of them being the HK33. The HK33A2 bears a rigid synthetic stock and is based on the original G3 design, utilizing the same roller-delayed blowback operating mechanism but on a smaller 5.56x45mm NATO bullet.
