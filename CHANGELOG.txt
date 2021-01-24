@@ -1,4 +1,4 @@
-### v7.9 (Beta) (Update) SEF Community Version
+### v7.9 (Beta) (main version) SEF Community Version
 - Fixed Glock 19 crash on reload (thanks to 4n0n for the hint)
 - Many soundbugs should be fixed now especially the many missing reload sounds (thanks to EFdee for an important hint and some files)
 - Added new G36ksd + G36 holo and 
