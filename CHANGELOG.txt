@@ -5,6 +5,8 @@
 - Removed the vanilla G36k + Suppressor
 - Disabled SilencedColtAccurizedRifle because the model is not available
 - Added (temporary) pictures for the mich2000 helmets
+- Fixed same rem870 model for less lethal model (thanks to ToXxy for the hint)
+- New MD5 files 
 
 
 ### v7.8.4 (Beta) (Update) SEF Community Version
