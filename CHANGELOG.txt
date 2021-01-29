@@ -1,3 +1,9 @@
+### v7.10 (stable) (main version) SEF Community Version
+- Added missing melee animations for both rem870 versions (thanks to ToXxy for the hint)
+- Added pump sound for both rem870 versions (thanks to EFdee for the hint)
+- Fixed wrong sound for the less lethal rem870 (thanks to ToXxy for the hint)
+
+
 ### v7.9 (Beta) (main version) SEF Community Version
 - Fixed Glock 19 crash on reload (thanks to 4n0n for the hint)
 - Many soundbugs should be fixed now especially the many missing reload sounds (thanks to EFdee for an important hint and some files)
