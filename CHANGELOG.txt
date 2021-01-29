@@ -2,6 +2,7 @@
 - Added missing melee animations for both rem870 versions (thanks to ToXxy for the hint)
 - Added pump sound for both rem870 versions (thanks to EFdee for the hint)
 - Fixed wrong sound for the less lethal rem870 (thanks to ToXxy for the hint)
+- Added missing melee animations for some M4A1 models
 
 
 ### v7.9 (Beta) (main version) SEF Community Version
