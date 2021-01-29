@@ -1,4 +1,6 @@
-*SEFC servers can be viewed in the serverbrowser if the masterserverpatch is installed or at https://swat4stats.com/servers/
+*The SEF Community Mod has an active public CO-OP Multiplayer server. 
+Servername: "SEFC Beta www.swat4.tk" -> Server IP address: 195.201.217.123:30480   
+The server should also be displayed in the serverbrowser if the filters are set correctly and the masterserverpatch is installed.
 
 *If you need help or have questions join the SEF Community Mod Discord!
 
