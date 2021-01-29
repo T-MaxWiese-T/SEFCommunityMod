@@ -1,0 +1,10 @@
+Since I recommend to reinstall new main versions completely some data will be lost. 
+To avoid this you can backup some files and replace them in the new "SEFCommunityModv7" folder.
+
+Campaign progress:
+SEFCommunityModv7/System -> Campaign.ini
+
+Your last loadouts:
+SEFCommunityModv7/System -> DynamicLoadout.ini
+
+
