@@ -6,6 +6,7 @@
 - Added some missing animations for some new weapons
 - Added "SEFC backup files guide.txt" file
 - Added "SEF_Community_Multiplayer.txt" file
+- Added new default music "Night Lovell Type Beat “Leash” (Prod. NetuH)" (thanks to NetuH)
 
 
 ### v7.9 (Beta) (main version) SEF Community Version
