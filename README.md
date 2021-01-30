@@ -257,7 +257,7 @@ This is a common bug that is encountered. Sometimes you will play a mission, eve
 I have no idea why this happens, or what the explanation is for it. It has happened to me and others in the vanilla game, both with and without the expansion.
 To solve it, you can just unlock the next mission and the campaign will progress normally after this.
 
-To unlock the next mission, find your SEF/System/Campaign.ini file. (Sometimes it is not here, it is ContentExpansion/System/Campaign.ini)
+To unlock the next mission, find your SEFCommunityModv7/System/Campaign.ini file. (Sometimes it is not here, it is ContentExpansion/System/Campaign.ini)
 Edit this file in Notepad, and find your career in here. It should be fairly obvious, and look something like this:
 ```ini
 [Campaign_Officer_Default]
