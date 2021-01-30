@@ -7,9 +7,11 @@
 - Added "SEFC backup files guide.txt" file
 - Added "SEF_Community_Multiplayer.txt" file
 - Added new default music "Night Lovell Type Beat “Leash” (Prod. NetuH)" (thanks to NetuH)
-- Removed unnecessary textures
-- Removed unnecessary content 
-
+- Removed unnecessary content (The memory space could be reduced by at least 35 mb)
+- "DOOR IS OPEN" properly integrated that means missing or wrong "Copy that" recordings should be fixed now in singleplayer
+- Added (temporary) kimber1911 muzzle flash
+- New MD5 files
+- New source files
 
 
 ### v7.9 (Beta) (main version) SEF Community Version
