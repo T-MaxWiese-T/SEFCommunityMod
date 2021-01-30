@@ -8,6 +8,8 @@
 - Added "SEF_Community_Multiplayer.txt" file
 - Added new default music "Night Lovell Type Beat “Leash” (Prod. NetuH)" (thanks to NetuH)
 - Removed unnecessary textures
+- Removed unnecessary content 
+
 
 
 ### v7.9 (Beta) (main version) SEF Community Version
