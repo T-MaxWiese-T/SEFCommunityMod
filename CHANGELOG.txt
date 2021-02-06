@@ -1,4 +1,11 @@
-### v7.10 (stable) (main version) SEF Community Version
+### v7.10.1 (stable) (Update) SEF Community Mod
+- Added new images for the mich2000 helmets and for the beretta pistol
+- Updated "Sound Improvement Mod - SWAT: Elite Force" v5 (thanks to EFdee)
+- Fixed a sound bug with handcuffs
+- New MD5 files
+
+
+### v7.10 (stable) (main version) SEF Community Mod
 - Added missing melee animations for both rem870 versions (thanks to ToXxy for the hint)
 - Added pump sound for both rem870 versions (thanks to EFdee for the hint)
 - Fixed wrong sound for the less lethal rem870 (thanks to ToXxy for the hint)
