@@ -7,4 +7,7 @@ SEFCommunityModv7/System -> Campaign.ini
 Your last loadouts:
 SEFCommunityModv7/System -> DynamicLoadout.ini
 
+Your personal settings, for example, keyboard settings:
+SEFCommunityModv7/System -> User.ini
+
 
