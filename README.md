@@ -1,4 +1,4 @@
-# SEF Community Mod
+# SEF Community Mod #
 Feel free to make Pull Request requests or open issues to create the best SEF mod ever.
 
 # INTRODUCTION #
@@ -29,7 +29,8 @@ For the GOG version of the game, it's usually located in C:/GOG Games/SWAT 4
 !!! CAUTION !!!
 Do not extract the SEFCommunityModv7 folder *into* your Content or ContentExpansion folders (and therefore overwrite things), otherwise the mod will not work correctly.
 
-To run the game, use the "Launch SEF.exe" file. To run SWATEd, use the "Launch SwatEd.bat" file.
+To run the game, use the "LaunchSEF.exe" file. 
+To run SWATEd, use the "LaunchSwatEd.bat" file.
 You can make a shortcut to these .bat files for more convenience.
 
 The mod can be removed by deleting the SEF folder from your hard drive.
@@ -186,7 +187,7 @@ Please read the How to Play in Multiplayer section of this README. :)
 ## HOW CAN I REPORT A BUG?
 The best, and preferred method is to post it directly on our GitHub issues page: https://github.com/T-MaxWiese-T/SEF_Community_Mod/issues
 However, since doing so requires a GitHub account, it's not the most desirable option. You can also post on the Moddb page, which doesn't require an account.
-Additionally, you can check us out on Discord, and chat with the developers: https://discord.gg/KHajCa28bp
+Additionally, you can check us out on Discord, and report bugs in the #sefc-bugs channel: https://discord.gg/KHajCa28bp
 
 ## WHY CAN'T I PLAY IN BARRICADED SUSPECTS, VIP ESCORT, SMASH AND GRAB, OR RAPID DEPLOYMENT?
 This mod uses very realistic values for the weapons, and ultimately it doesn't play well in PvP modes for those reasons.
@@ -320,23 +321,22 @@ Please read the FAQ before looking here! It's entirely possible that what you ar
   * Officers sometimes ignore orders, you might have to issue a command two or three times. Problem of the original game.
   * Officers sometimes ignore orders and say something like "I'm busy." This is a problem of the original game; they sometimes can see suspects where the player can't.
   * Sometimes when you are loading up the game, you can get no sound at all. This is an issue introduced by the Stetchkov Syndicate expansion pack. Sometimes it can be solved by simply restarting the game and not running the game in windowed mode. Sometimes, if you have two detected audio devices (one for output, and one for both input and output), make sure that the one that is responsible for both input and output is DISABLED. The game is bugged and will sometimes pick the wrong audio device.
-  * "gui_tex package version mismatch" when joining a server: Make sure you are running under International language. Sometimes it defaults itself to English or some other language. Search for `Language=eng` or `Language=grm` in SEF/System/Swat4x.ini and make sure it's set to `Language=int`
+  * "gui_tex package version mismatch" when joining a server: Make sure you are running under International language. Sometimes it defaults itself to English or some other language. Search for `Language=eng` or `Language=grm` in SEFCommunityModv7/System/Swat4x.ini and make sure it's set to `Language=int`
 
 
 # HOW TO PLAY IN MULTIPLAYER #
 
-## Using GameRanger  to play with friends (preferred): ##
+## Using GameRanger  to play with teammates (preferred): ##
 
-BOTH PLAYERS will need to do the following:  
- 1. Download and install GameRanger. It can be found at http://gameranger.com  Next, GameRanger will automatically detect "SWAT 4" and "SWAT 4: The Stetchkov Syndicate", if all is OK. You may need to manually detect these, if GameRanger doesn't do it for you. 
-2. You will need to rename the **"LaunchSEF.exe"** in **SEFCommunityModv7/Extras** to **"SWAT4X.exe"** so Gameranger will recognize it. (It's named LaunchSEF.exe so that it isn't automatically detected!) 
-3. Then, you will need to modify the "Stetchkov Syndicate" game in Gameranger so it points to the Swat4X.exe file in **SEFCommunityModv7/Extras/Swat4X.exe** (Edit -> Options -> Games ->  "Stetchkov Syndicate" -> "Browse..." and then set the location to your SEF Community Mod folder to the **"SWAT4X.exe"** in **"Extras"**.  
-(Side note: I also recommend to go to the **"Network"** tab in the Options and set the connection speed to **"2Mbps DSL/Cable"** so that the connection is faster and more stable when playing.) Also, I recommend having **"LAN"** selected in the **SEF Community Mod settings** so that you have the fastest connection.
+FIRST START with @SEFC-Gameranger: 
+ 1. Download and install GameRanger. It can be found at https://gameranger.com/ Next, GameRanger will automatically detect "SWAT 4" and "SWAT 4: The Stetchkov Syndicate", if all is OK. You may need to manually detect these, if GameRanger doesn't do it for you. 
+2. Then, you will need to modify the "SWAT4: Stetchkov Syndicate" game in Gameranger so it points to the Swat4X.exe file in SEFCommunityModv7/Extras/Swat4X.exe (Edit -> Options... -> Games tab ->  "SWAT4: Stetchkov Syndicate" -> "Browse..." and then set the location to your SEF Community Mod folder to the "SWAT4X.exe" in "Extras".
+(Side note: I also recommend to go to the "Network" tab in the Options and set the connection speed to "2Mbps DSL/Cable" so that the connection is faster and more stable when playing.) Also, I recommend having "LAN" selected in the SEF Community Mod settings so that you have the fastest connection.
 
 THE HOST will need to do the following: 
-1. Create a game room in Gameranger with **"Host"**, as a "SWAT 4: The Stetchkov Syndicate game". (TIP: if this is going to be a publicly joinable game, be sure to mention it's using the SEF Community mod and specify the version!) 
-2. When enough players have joined, press the **"Start"** button. This will launch the SEF Community Mod. 
-3. From here, go to the **"Host Game"** in game menu and start up a server (LAN must be selected!) . Important Note: Do not launch as a dedicated server while using GameRanger. Teammates can see your server in the game serverbrowser if they have selected **"LAN"**.
+1. Create a game room in Gameranger with "Host", as a "SWAT 4: The Stetchkov Syndicate game". (TIP: if this is going to be a publicly joinable game, be sure to mention it's using the SEF Community mod and specify the version!) 
+2. When enough players have joined, press the "Start" button. This will launch the SEF Community Mod. 
+3. From here, go to the "Host Game" in game menu and start up a server (LAN must be selected!) . Important Note: Do not launch as a dedicated server while using GameRanger. Teammates can see your server in the game serverbrowser if they have selected "LAN".
 
 YOUR TEAMMATES will need to do the following: 
 1. Join a public room, or your friend's room and then press "Join" that will opens SEF Community Mod. 
