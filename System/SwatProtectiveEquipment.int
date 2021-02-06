@@ -245,7 +245,6 @@ DeactivatedMesh=StaticMesh'mich2000_sm.mich_static_up'
 Weight=2.0
 Bulk=2.5
 
-
 [SwatProtectiveEquipmentHOV.V2tactic]
 PlayerUsable=true
 Description=Headphones/Camera/Helmet
