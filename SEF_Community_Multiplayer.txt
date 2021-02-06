@@ -8,3 +8,5 @@ Someone who hosts a public active SEF Community Mod server gets the role @SEFC-S
 and @SEFC-Serverhoster/Admin in the SEF Community Mod Discord.
 
 *If you need help or have questions join the SEF Community Mod Discord!
+
+*If you get this failure message: "Connection to server rejected (invalid content)" you should always run "GenerateMD5(Join problems).bat" in the "SEFCommunityModv7" folder.
