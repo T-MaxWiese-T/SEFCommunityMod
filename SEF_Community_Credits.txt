@@ -3,8 +3,8 @@
 - "ReportAdvanced commands(MP) v0.9 (SEFv7.0)" Mod (thanks to The_Munt) 
 - GitHub contributions (thanks to GuiShing) (thanks to [SFOD-D]Sandman) (thanks to S4-swat4tk) 
 - Many new weapon models, new holder, Mich 2000 + PVS7 model and motorola walkie talkie (thanks to Beppe_goodoldrebel)
-- "Sound Improvement Mod - SWAT: Elite Force" (v3) and (v4) (thanks to EFdee)
-- Many important hints especially concerning multiplayer (thanks to S4)
+- "Sound Improvement Mod - SWAT: Elite Force" (v3), (v4) and (v5) (thanks to EFdee)
+- Many important hints especially concerning multiplayer and for hosting a public active server for the SEF Community Mod (thanks to S4)
 - Night Lovell Type Beat “Leash” (Prod. NetuH) (thanks to NetuH)
 
 *All who support the SEF community mod. Every contribution counts. 
