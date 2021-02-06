@@ -33,7 +33,7 @@ To run the game, use the "LaunchSEF.exe" file.
 To run SWATEd, use the "LaunchSwatEd.bat" file.
 You can make a shortcut to these .bat files for more convenience.
 
-The mod can be removed by deleting the SEF folder from your hard drive.
+The mod can be removed by deleting the SEFC folder from your hard drive.
 
 NOTE: You may run into an issue with the game not saving your settings, or throwing an assertion failure at times in the Settings menu. This is mostly a problem with Windows Vista and up; try giving the folder write permissions or "Total Control". Alternatively you can make your SWAT4x.exe run in administrator mode.
 
@@ -141,7 +141,7 @@ A list of trigger words is provided, starting with Patch 5.1. See SpeechCommands
 **IF SPEECH RECOGNITION DOES NOT WORK (CHECKBOX GREYED OUT):**
 
 - What language is your operating system? *By default, the game will only work with an English (United States) version of Windows.*
-In order to support more languages, you will need to edit your SEF/System/SpeechCommandGrammar.xml. Near the top of the file will be a line that reads like this:
+In order to support more languages, you will need to edit your SEFCommunityModv7/System/SpeechCommandGrammar.xml. Near the top of the file will be a line that reads like this:
 ```
 <GRAMMAR LANGID="409">
 ```
@@ -334,7 +334,7 @@ FIRST START with @SEFC-Gameranger:
 (Side note: I also recommend to go to the "Network" tab in the Options and set the connection speed to "2Mbps DSL/Cable" so that the connection is faster and more stable when playing.) Also, I recommend having "LAN" selected in the SEF Community Mod settings so that you have the fastest connection.
 
 THE HOST will need to do the following: 
-1. Create a game room in Gameranger with "Host", as a "SWAT 4: The Stetchkov Syndicate game". (TIP: if this is going to be a publicly joinable game, be sure to mention it's using the SEF Community mod and specify the version!) 
+1. Create a game room in Gameranger with "Host", as a "SWAT 4: The Stetchkov Syndicate game". (TIP: if this is going to be a publicly joinable game, be sure to mention it's using the SEF Community Mod and specify the version!) 
 2. When enough players have joined, press the "Start" button. This will launch the SEF Community Mod. 
 3. From here, go to the "Host Game" in game menu and start up a server (LAN must be selected!) . Important Note: Do not launch as a dedicated server while using GameRanger. Teammates can see your server in the game serverbrowser if they have selected "LAN".
 
@@ -350,7 +350,7 @@ Make sure you have the Microsoft Visual Studio 2017 Redistributable. It is requi
 * **64-bit Windows:** https://go.microsoft.com/fwlink/?LinkId=746572
 * **32-bit Windows:** https://go.microsoft.com/fwlink/?LinkId=746571
 
-If GameRanger "aborts" when it launches, you may have some application (antivirus?) interfering with LaunchSEF.exe. If this happens, copy all .exe and .dll files from `ContentExpansion/System` into `SEF/System` and point GameRanger to the Swat4X.exe that is in `SEF/System`. This is kind of an ultra last resort option however!
+If GameRanger "aborts" when it launches, you may have some application (antivirus?) interfering with LaunchSEF.exe. If this happens, copy all .exe and .dll files from `ContentExpansion/System` into `SEFCommunityModv7/System` and point GameRanger to the Swat4X.exe that is in `SEFCommunityModv7/System`. This is kind of an ultra last resort option however!
 
 ## Traditional Method (TCP/IP) ##
 SWAT: Elite Force v4 was the first version of this mod to allow for multiplayer play. v5 introduced Campaign CO-OP and allowed for publishing of games to Swat4Stats without a CD-key (removing DRM that GOG didn't).
@@ -359,7 +359,7 @@ SWAT: Elite Force v4 was the first version of this mod to allow for multiplayer 
 
 If the game you want is not hosted via LAN, then you will need the SWAT4Stats server browser plugin. It's available at http://swat4stats.com - make sure you get the TSS version.
 
-After it is installed, your server list will show all of the servers, including the ones that are on different mods. Just join the one you want. There are a number of 24/7 SEF servers out there.
+After it is installed, your server list will show all of the servers, including the ones that are on different mods. Just join the one you want. 
 
 If the game you want is hosted via LAN, or you cannot find the server in the list, you will need the host's external IP address (have the host look this up on http://myexternalip.com). You can then join the game from the Join Game menu using the IP address.
 
@@ -381,7 +381,7 @@ Administrator permissions are doled out through the use of "roles." Everyone by 
 
 Admin Roles should be assigned through the Host Game menu, when setting up the server settings.
 
-Additionally, SEF also has an MOTD system. The only way (currently) to configure this is through the use of editing INI files. Open SEF/System/Swat4XDedicatedServer.ini. In the section titled `[SwatGame.SwatAdmin]` (at the bottom), add your MOTD lines by the following:
+Additionally, SEF also has an MOTD system. The only way (currently) to configure this is through the use of editing INI files. Open SEFCommunityModv7/System/Swat4XDedicatedServer.ini. In the section titled `[SwatGame.SwatAdmin]` (at the bottom), add your MOTD lines by the following:
 
 ```ini
 AutoActions=(Delay=NumSeconds,ExecuteText="Command")
