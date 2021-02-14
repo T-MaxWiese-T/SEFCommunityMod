@@ -1,4 +1,4 @@
-### v7.10.1 (stable) (Update) SEF Community Mod  
+### v7.10.1 (stable) (Update) SEF Community Mod   
 - Added new images for the mich2000 helmets and for the beretta pistol
 - Added protection for the mich2000 helmets with night vision 
 - Updated "Sound Improvement Mod - SWAT: Elite Force" to v5 with many sound improvements (thanks to EFdee)
