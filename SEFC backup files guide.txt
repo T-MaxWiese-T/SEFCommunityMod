@@ -10,4 +10,7 @@ SEFCommunityModv7/System -> DynamicLoadout.ini
 Your personal settings, for example, keyboard settings:
 SEFCommunityModv7/System -> User.ini
 
+Your mission results:
+SEFCommunityModv7/System -> MissionResults.ini
+
 
