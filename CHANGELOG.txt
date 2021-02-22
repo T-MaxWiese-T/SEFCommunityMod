@@ -1,3 +1,10 @@
+### v7.1? SEF Community Mod   
+- Better position for the "STATS" button, "Weapon Cabinet" header and main menu music credit
+- Added "GitHub" button for main menu
+- Edited some .txt files
+- Fixed missing weapons on enemies (thanks to AlfieLC)
+
+
 ### v7.10.1 (stable) (Update) SEF Community Mod   
 - Added new images for the mich2000 helmets and for the beretta pistol
 - Added protection for the mich2000 helmets with night vision 
@@ -24,6 +31,7 @@
 - New MD5 files
 - New source files
 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ### v7.9 (Beta) (main version) SEF Community Version
 - Fixed Glock 19 crash on reload (thanks to 4n0n for the hint)
