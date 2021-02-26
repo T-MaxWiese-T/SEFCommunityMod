@@ -1,9 +1,14 @@
-### v7.11 (stable) (main version) SEF Community Mod   
+### v7.11 (Beta) (main version) SEF Community Mod   
 - Better position for the "STATS" button, "Weapon Cabinet" header and main menu music credit
 - Added "GitHub" button for main menu
 - Edited some .txt files
 - Fixed missing weapons on enemies (thanks to AlfieLC)
-- Removed new existing weapons and replaced with vanilla models
+- Removed new existing weapons and replaced with SEFv7 models
+- Added new helmets from "Add helmet v1.3 (SEFv7)" (thanks to The_Munt)
+- Added new G36kHolo/G36kHolo with Suppressor and UMP45Holo/UMP45Holo with Suppressor from "Weapon model replace v2.4 (SEFv7.0)" (thanks to The_Munt)
+- Removed HOV Mod because it offers no real added value. Maybe some content will be added again but not everything
+- Restored SEFv7 vests and helmets
+- Reduced weapon clipping (inspired by Beppegoodoldrebel)
 
 
 ### v7.10.1 (stable) (Update) SEF Community Mod   
@@ -244,7 +249,7 @@
 - Fixed duplicate USP40 in courthouse for Insane SovCit (thanks to GuiShing #3)
 - New main menu logo inserted
 - New main menu song added DEAF KEV - Invincible (NCS Release)
-- Integrated mod "ReportAdvanced commands(MP) v0.9" optimized
+- Integrated mod "Advanced commands(MP) v0.9" optimized
 - Screenshots folder bat added (easy to create screenshots folder and manage)
 - Less strict bonus in debriefing
 - Realistic capacity quantity
@@ -261,5 +266,5 @@
 - Better preset filters for the server browser
 - LaunchSEF.exe with administrator rights
 - Discord Link for the SEF Community (feel free to contribute)
-- Many thanks to TheMunt for providing his mod "ReportAdvanced commands(MP) v0.9 (SEFv7.0)".
+- Many thanks to TheMunt for providing his mod "Advanced commands(MP) v0.9 (SEFv7.0)".
 - Thanks to eezstreet for the SEF main version
