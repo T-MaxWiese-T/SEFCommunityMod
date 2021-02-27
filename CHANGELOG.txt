@@ -1,3 +1,11 @@
+### v7.12 (Beta) (main version) SEF Community Mod  
+- Fixed crash when hosting a multiplayer server (thanks to Young Levy for the hint)
+- Removed a lot of ballast
+- Added missing suppressor textures on the new weapons G36kHolo and UMP45Holo
+- Fixed weird textures on officers
+- Added more new helmets
+
+
 ### v7.11 (Beta) (main version) SEF Community Mod   
 - Better position for the "STATS" button, "Weapon Cabinet" header and main menu music credit
 - Added "GitHub" button for main menu
