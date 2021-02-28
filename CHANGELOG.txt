@@ -1,3 +1,13 @@
+### v8.01 (Beta) (main version) SEF Community Mod  
+- Fixed crash with certain suspects
+- Updated to the latest SEFv8(Beta) state
+- Updated SFX Improvement Mod from v5 to v6.0.1 (thanks to EFdee)
+- Fixed some sound bugs
+- Fixed wrong G36k silenced iron sight
+- Fixed wrong suspect textures
+- Fixed that you could not see the weapons and headgear from the server host (thanks to Young Levy for testing)
+
+
 ### v7.12 (Beta) (main version) SEF Community Mod  
 - Fixed crash when hosting a multiplayer server (thanks to Young Levy for the hint)
 - Removed a lot of ballast
