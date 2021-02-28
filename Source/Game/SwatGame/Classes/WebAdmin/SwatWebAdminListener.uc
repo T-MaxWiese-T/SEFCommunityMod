@@ -448,10 +448,11 @@ function FixHTMLColor(out string Text)
 	do
 	{
 		i = InStr(Text, "[c=");
-		if(i != -1)
-		{
-			j = InStrAfter(Text, "]", i);
-			if(j != -1)
+			if(j == -1)
+			{
+				i = -1;
+			}
+			else
 			{
 				Text = Left(Text, i) $ "</font><font color=" $ Mid(Text, i + 3, 6) $ ">" $ Mid(Text, j + 1);
 			}
