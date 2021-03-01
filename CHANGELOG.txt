@@ -1,3 +1,7 @@
+### v8.01.1 (Beta) (Update) SEF Community Mod  
+- Fixed crash when SWAT AI has arrested someone (thanks to mcdimm for the hint) 
+
+
 ### v8.01 (Beta) (main version) SEF Community Mod  
 - Fixed crash with certain suspects
 - Updated to the latest SEFv8(Beta) state
