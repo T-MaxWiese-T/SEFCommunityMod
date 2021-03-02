@@ -1,8 +1,6 @@
-### v8.01.1 (Beta) (Update) SEF Community Mod  
+### v8.01.1 (Beta) (main version) SEF Community Mod  
 - Fixed crash when SWAT AI has arrested someone (thanks to mcdimm for the hint) 
-
-
-### v8.01 (Beta) (main version) SEF Community Mod  
+### v8.01  
 - Fixed crash with certain suspects
 - Updated to the latest SEFv8(Beta) state
 - Updated SFX Improvement Mod from v5 to v6.0.1 (thanks to EFdee)
@@ -33,7 +31,7 @@
 - Reduced weapon clipping (inspired by Beppegoodoldrebel)
 
 
-### v7.10.1 (stable) (Update) SEF Community Mod   
+### v7.10.1 (stable) (main version) SEF Community Mod   
 - Added new images for the mich2000 helmets and for the beretta pistol
 - Added protection for the mich2000 helmets with night vision 
 - Updated "Sound Improvement Mod - SWAT: Elite Force" to v5 with many sound improvements (thanks to EFdee)
@@ -42,9 +40,7 @@
 - Edited some .txt files (I recommend to read them)
 - Removed M16A1 from stetchkov warehouse suspects because it is realistic (thanks to GuiShing)
 - New MD5 files
-
-
-### v7.10 (stable) (main version) SEF Community Mod
+### v7.10 
 - Added missing melee animations for both rem870 versions (thanks to ToXxy for the hint)
 - Added pump sound for both rem870 versions (thanks to EFdee for the hint)
 - Fixed wrong sound for the less lethal rem870 (thanks to ToXxy for the hint)
