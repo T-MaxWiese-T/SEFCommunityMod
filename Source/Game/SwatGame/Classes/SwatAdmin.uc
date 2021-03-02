@@ -329,6 +329,9 @@ function SanitizeLogMessage(out string Message)
 	do
 	{
 		i = InStr(Message, "[c=");
+		if(i != -1)
+		{
+			j = InStrAfter(Message, "]", i);
 			if(j == -1)
 			{
 				i = -1;
