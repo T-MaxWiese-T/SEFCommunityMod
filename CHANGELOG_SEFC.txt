@@ -1,8 +1,15 @@
+### v8.1 (stable) (main version) SEF Community Mod  
+- Updated to the latest SEFv7.1(Beta) state
+- Added description with armorpenetration protection level to the helmets
+- Added missing image for one helmet
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------- stable stage
 ### v8.01.1 (Beta) (main version) SEF Community Mod  
 - Fixed crash when SWAT AI has arrested someone (thanks to mcdimm for the hint) 
 ### v8.01  
 - Fixed crash with certain suspects
-- Updated to the latest SEFv8(Beta) state
+- Updated to the latest SEFv7.1(Beta) state
 - Updated SFX Improvement Mod from v5 to v6.0.1 (thanks to EFdee)
 - Fixed some sound bugs
 - Fixed wrong G36k silenced iron sight
@@ -29,7 +36,7 @@
 - Removed HOV Mod because it offers no real added value. Maybe some content will be added again but not everything
 - Restored SEFv7 vests and helmets
 - Reduced weapon clipping (inspired by Beppegoodoldrebel)
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------- Beta stage
 
 ### v7.10.1 (stable) (main version) SEF Community Mod   
 - Added new images for the mich2000 helmets and for the beretta pistol
