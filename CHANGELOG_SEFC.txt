@@ -1,3 +1,9 @@
+### v8.1.1 (stable) (Update) SEF Community Mod  
+- Updated to the latest SEFv7.1(Beta) state
+- Fixed some sound bugs and crashes. (thanks to Shampun2281 for the "swat4x.log")
+- Updated to the latest "EFdees_SFX_Improvement_Mod_v6.1.2" (thanks to EFdee)
+
+
 ### v8.1 (stable) (main version) SEF Community Mod  
 - Updated to the latest SEFv7.1(Beta) state
 - Added description with armorpenetration protection level to the helmets
