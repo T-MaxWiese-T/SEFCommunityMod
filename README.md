@@ -1,5 +1,5 @@
 # SEF Community Mod #
-Feel free to make "Pull Requests" or open "Issues" to make SEF even better!
+Feel free to make "Pull Requests" or open "Issues" to make SEFC even better!
 
 # INTRODUCTION #
 
