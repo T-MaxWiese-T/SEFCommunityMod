@@ -1,5 +1,5 @@
 # SEF Community Mod #
-Feel free to make Pull Request requests or open issues to create the best SEF mod ever.
+Feel free to make Pull Request requests or open issues to make SEF even better!
 
 # INTRODUCTION #
 
