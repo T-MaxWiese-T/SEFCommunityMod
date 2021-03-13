@@ -3,8 +3,8 @@
 - "Advanced commands(MP) v0.9 (SEFv7.0)" Mod (thanks to The_Munt) 
 - "Weapon model replace v2.4 (SEFv7.0)" (thanks to The_Munt)
 - GitHub contributions (thanks to GuiShing) (thanks to [SFOD-D]Sandman) (thanks to S4-swat4tk) (thanks to AlfieLC)
-- "Sound Improvement Mod - SWAT: Elite Force" (v3), (v4), (v5) and (v6.0.1) (thanks to EFdee)
-- Many important hints especially concerning multiplayer and for hosting a public active server for the SEF Community Mod (thanks to S4)
+- "Sound Improvement Mod - SWAT: Elite Force" (v3), (v4), (v5), (v6.0.1) and (v6.1.2) (thanks to EFdee)
+- Many important hints especially concerning multiplayer (thanks to S4)
 - Night Lovell Type Beat “Leash” (Prod. NetuH) (thanks to NetuH)
 
 *All who support the SEF Community Mod. Every contribution counts. 
