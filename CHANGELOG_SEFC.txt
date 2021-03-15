@@ -1,3 +1,9 @@
+### v8.1.2 (stable) (Update) SEF Community Mod  
+- Updated to the latest SEFv7.1(Beta) state
+- Fixed missing sound for M4A1 with suppressor
+- Fixed some inconsistencies (potential fix for some crashes)
+
+
 ### v8.1.1 (stable) (Update) SEF Community Mod  
 - Updated to the latest SEFv7.1(Beta) state
 - Fixed some sound bugs and crashes. (thanks to Shampun2281 for the "swat4x.log")
