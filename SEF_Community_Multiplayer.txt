@@ -1,6 +1,6 @@
 *SEFC servers can be viewed in the serverbrowser if the masterserverpatch is installed or at https://swat4stats.com/servers/
 
-*If you want to create your own temporary server with your teammates check out my the Gameranger guide.
+*If you want to create your own temporary server with your teammates check out the Gameranger guide.
 
 *If someone wants to host a server he should write in the SEF Community Mod Discord and you can meet there to play. 
 You can also send in server ip addresses or room names for Gameranger that are temporary. 
