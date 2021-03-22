@@ -2,10 +2,10 @@
 
 *If you want to create your own temporary server with your teammates check out the Gameranger guide.
 
-*If someone wants to host a server he should write in the SEF Community Mod Discord and you can meet there to play. 
+*If you want to host a server you should write in the SEF Community Mod Discord and you can meet there to play. 
 You can also send in server ip addresses or room names for Gameranger that are temporary. 
 
-*Someone who hosts a public active SEF Community Mod server gets the role @SEFC-Supporter 
+*If you host a public active SEF Community Mod server you get the role @SEFC-Supporter 
 and @SEFC-Serverhoster/Admin in the SEF Community Mod Discord.
 
 *If you need help or have questions join the SEF Community Mod Discord!
